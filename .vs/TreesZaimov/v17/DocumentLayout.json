@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STUDENTS-1212-7\\Desktop\\11a\\TreesZaimov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E29E55-6530-47A0-AEB4-5C73017F478E}|TreesZaimov\\TreesZaimov.csproj|c:\\users\\students-1212-7\\desktop\\11a\\treeszaimov\\treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E29E55-6530-47A0-AEB4-5C73017F478E}|TreesZaimov\\TreesZaimov.csproj|solutionrelative:treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E29E55-6530-47A0-AEB4-5C73017F478E}|TreesZaimov\\TreesZaimov.csproj|c:\\users\\students-1212-7\\desktop\\11a\\treeszaimov\\treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7E29E55-6530-47A0-AEB4-5C73017F478E}|TreesZaimov\\TreesZaimov.csproj|solutionrelative:treeszaimov\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7E29E55-6530-47A0-AEB4-5C73017F478E}|TreesZaimov\\TreesZaimov.csproj|c:\\users\\students-1212-7\\desktop\\11a\\treeszaimov\\treeszaimov\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7E29E55-6530-47A0-AEB4-5C73017F478E}|TreesZaimov\\TreesZaimov.csproj|solutionrelative:treeszaimov\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-7\\Desktop\\11a\\TreesZaimov\\TreesZaimov\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TreesZaimov\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-7\\Desktop\\11a\\TreesZaimov\\TreesZaimov\\Form1.Designer.cs",
+              "RelativeToolTip": "TreesZaimov\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T10:03:12.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-7\\Desktop\\11a\\TreesZaimov\\TreesZaimov\\Form1.cs",
+              "RelativeDocumentMoniker": "TreesZaimov\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-7\\Desktop\\11a\\TreesZaimov\\TreesZaimov\\Form1.cs",
+              "RelativeToolTip": "TreesZaimov\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:59:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\STUDENTS-1212-7\\Desktop\\11a\\TreesZaimov\\TreesZaimov\\Form1.cs",
+              "RelativeDocumentMoniker": "TreesZaimov\\Form1.cs",
+              "ToolTip": "C:\\Users\\STUDENTS-1212-7\\Desktop\\11a\\TreesZaimov\\TreesZaimov\\Form1.cs [Design]",
+              "RelativeToolTip": "TreesZaimov\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T09:52:24.079Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
